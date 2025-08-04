@@ -19,9 +19,9 @@ This repository contains a Power BI dashboard designed to analyze and track a fr
 | File Name                           | Description                                 |
 |-------------------------------------|---------------------------------------------|
 | invoice_data_5_years.csv            | Invoice data with client, service, amount   |
-| freelance_income_dashboard.pbix     | Power BI file with dashboard & measures     |
-| README.md`                          | Project description and usage guide         |
-| Freelance_Income_dashboard.png      | Preview of the final dashboard              |
+| Freelance_income_dashboard.pbix     | Power BI file with dashboard & measures     |
+| README.md                           | Project description and usage guide         |
+|Freelancer's_Income_dashboard.png    | Preview of the final dashboard              |
 
 ---
 
