@@ -2,7 +2,7 @@
 This repository contains a Power BI dashboard designed to analyze and track a freelancer's income over a five-year period. The dashboard offers detailed insights into earnings, clients, services, taxes (GST), and invoice trends in an interactive and visual format.
 
 
-## 🚀 Features
+##  Features
 
 -  Analyze freelance income across 5 years
 -  Monthly and yearly income trends
@@ -18,21 +18,21 @@ This repository contains a Power BI dashboard designed to analyze and track a fr
 
 | File Name                           | Description                                 |
 |-------------------------------------|---------------------------------------------|
-| `invoice_data_5_years.csv`          | Invoice data with client, service, amount   |
-| `freelance_income_dashboard.pbix`   | Power BI file with dashboard & measures     |
-| `README.md`                         | Project description and usage guide         |
-| `Freelance_Income_dashboard.png`    | Preview of the final dashboard              |
+| invoice_data_5_years.csv            | Invoice data with client, service, amount   |
+| freelance_income_dashboard.pbix     | Power BI file with dashboard & measures     |
+| README.md`                          | Project description and usage guide         |
+| Freelance_Income_dashboard.png      | Preview of the final dashboard              |
 
 ---
 
-## 📷 Dashboard Preview
+##  Dashboard Preview
 
 ![Dashboard Preview](https://github.com/divya2010-maker/Freelance_Income_Dashboard/blob/main/Freelancer's%20_Income_dashboard.png)
 
 ---
 
 
-## ⚙️ Tools & Technologies
+##  Tools & Technologies
 
 - **Power BI Desktop**
 - **DAX (Data Analysis Expressions)**
@@ -55,7 +55,7 @@ This repository contains a Power BI dashboard designed to analyze and track a fr
 ## How to Use
 
 1. Clone or download this repository
-2. Open the `.pbix` file in **Power BI Desktop**
+2. Open the .pbix file in **Power BI Desktop**
 3. Explore or modify the dashboard as per your needs
 
 
